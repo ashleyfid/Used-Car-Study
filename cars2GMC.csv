@@ -1,0 +1,16 @@
+Make,Model_part,Models
+GMC,Aca,"AcadiaFWD,AcadiaAWD,Acadia,AcadiaSLE"
+GMC,Can,"CanyonExtended,CanyonCrew,Canyon4WD,Canyon2WD,CanyonSLE,CanyonRegular"
+GMC,Cla,Classic
+GMC,Den,Denali4dr
+GMC,Env,"Envoy,Envoy4dr,Envoy2WD,Envoy4WD"
+GMC,Jim,"Jimmy4dr,Jimmy2dr"
+GMC,New,New
+GMC,P,P
+GMC,Saf,Safari
+GMC,Sav,Savana
+GMC,Sie,Sierra
+GMC,Son,"Sonoma2WD,Sonoma4WD"
+GMC,Sub,"Suburban1500,Suburban2500"
+GMC,Ter,"TerrainAWD,TerrainFWD,TerrainSLE-2,TerrainSLT,TerrainSLT-1"
+GMC,Yuk,"Yukon,Yukon4dr,YukonAWD,Yukon4WD,Yukon2WD,YukonDenali,YukonXL,YukonSLT1,YukonCOMMERCIAL,YukonSLE,Yukon1500"
