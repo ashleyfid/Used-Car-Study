@@ -2,9 +2,6 @@
 title: 'Used Cars for Sale'
 output:
   pdf_document: default
-  html_notebook: default
-  html_document:
-    df_print: paged
 ---
 
 # Introduction  
